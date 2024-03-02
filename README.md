@@ -4,9 +4,6 @@ design-pattern
 <p align="center">
 📕 Learn one design pattern per day
 </p>
-<p align="center">
-<a href="https://juejin.cn/column/7327985924477157391" target="_blank">Blogs</a>
-</p>
 
 ## Contributing
 
@@ -16,6 +13,4 @@ Thanks to everyone who has already contributed to design-pattern !
 
 ## Thanks
 
-- [golang](https://go.dev/doc/)
-- [golang-design-pattern](https://github.com/senghoo/golang-design-pattern)
-- 《JavaScript 设计模式与开发实践》
+- [设计模式-菜鸟教程](https://www.runoob.com/design-pattern/design-pattern-tutorial.html)
